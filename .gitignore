@@ -1,0 +1,11 @@
+# IDEs
+.vscode/
+
+# python post build artifacts 
+pycache/
+
+# env files
+.env
+
+# virtual environments
+.venv/
